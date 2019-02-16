@@ -1,4 +1,3 @@
 <?php
 
-echo "teste falha";
-//  phpinfo();
+phpinfo();
