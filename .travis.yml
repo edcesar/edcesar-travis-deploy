@@ -2,3 +2,8 @@ language: php
 php:
   - 5.5
 script: phpunit Test.php
+deploy:
+ provider: heroku
+ app: edcesar-travis-deploy
+ api_key:
+  secure: 944c9d5b-f3ad-4506-922e-dcd29894783d
