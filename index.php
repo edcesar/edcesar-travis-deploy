@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+// phpinfo();
 
-// echo 'teste';
+echo 'teste agora';
